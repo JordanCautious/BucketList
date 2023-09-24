@@ -11,6 +11,7 @@
 		EC42ACB32ABEA4DF00819BC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC42ACB22ABEA4DF00819BC9 /* ContentView.swift */; };
 		EC42ACB52ABEA4E100819BC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC42ACB42ABEA4E100819BC9 /* Assets.xcassets */; };
 		EC42ACB82ABEA4E100819BC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC42ACB72ABEA4E100819BC9 /* Preview Assets.xcassets */; };
+		EC6B71132AC025FE00142CBD /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6B71122AC025FE00142CBD /* EditView.swift */; };
 		ECF18E552ABEC19400E28257 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF18E542ABEC19400E28257 /* Location.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		EC42ACB22ABEA4DF00819BC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EC42ACB42ABEA4E100819BC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC42ACB72ABEA4E100819BC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EC6B71122AC025FE00142CBD /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		ECF18E542ABEC19400E28257 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +57,7 @@
 			children = (
 				EC42ACB02ABEA4DF00819BC9 /* BucketListApp.swift */,
 				EC42ACB22ABEA4DF00819BC9 /* ContentView.swift */,
+				EC6B71122AC025FE00142CBD /* EditView.swift */,
 				ECF18E542ABEC19400E28257 /* Location.swift */,
 				EC42ACB42ABEA4E100819BC9 /* Assets.xcassets */,
 				EC42ACB62ABEA4E100819BC9 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				EC42ACB32ABEA4DF00819BC9 /* ContentView.swift in Sources */,
 				ECF18E552ABEC19400E28257 /* Location.swift in Sources */,
+				EC6B71132AC025FE00142CBD /* EditView.swift in Sources */,
 				EC42ACB12ABEA4DF00819BC9 /* BucketListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
