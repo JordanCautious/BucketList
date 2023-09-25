@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC2D24F32AC2276F005734E7 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC2D24F22AC2276F005734E7 /* Result.swift */; };
 		EC42ACB12ABEA4DF00819BC9 /* BucketListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC42ACB02ABEA4DF00819BC9 /* BucketListApp.swift */; };
 		EC42ACB32ABEA4DF00819BC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC42ACB22ABEA4DF00819BC9 /* ContentView.swift */; };
 		EC42ACB52ABEA4E100819BC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC42ACB42ABEA4E100819BC9 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC2D24F22AC2276F005734E7 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		EC42ACAD2ABEA4DF00819BC9 /* BucketList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BucketList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC42ACB02ABEA4DF00819BC9 /* BucketListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketListApp.swift; sourceTree = "<group>"; };
 		EC42ACB22ABEA4DF00819BC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				EC42ACB02ABEA4DF00819BC9 /* BucketListApp.swift */,
 				EC42ACB22ABEA4DF00819BC9 /* ContentView.swift */,
+				EC2D24F22AC2276F005734E7 /* Result.swift */,
 				EC6B71122AC025FE00142CBD /* EditView.swift */,
 				ECF18E542ABEC19400E28257 /* Location.swift */,
 				EC42ACB42ABEA4E100819BC9 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC42ACB32ABEA4DF00819BC9 /* ContentView.swift in Sources */,
+				EC2D24F32AC2276F005734E7 /* Result.swift in Sources */,
 				ECF18E552ABEC19400E28257 /* Location.swift in Sources */,
 				EC6B71132AC025FE00142CBD /* EditView.swift in Sources */,
 				EC42ACB12ABEA4DF00819BC9 /* BucketListApp.swift in Sources */,
